@@ -1,1 +1,1 @@
-Pacman game usin css and javascript
+Pacman game using css and javascript
