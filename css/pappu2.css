@@ -1,0 +1,62 @@
+#container{
+position:relative;
+width:600px;
+height:600px;
+background-color:black;
+
+margin:auto;
+}
+
+
+#pacman{
+	position:absolute;
+	width:30px;
+height:30px;
+top: 270px;
+left:30px;
+}
+
+#scoreBoard{
+position:absolute;
+width:200px;
+height:150px;
+top:20px;
+left:20px;
+border:1px solid black;
+margin:auto;
+}
+
+#scores{
+position:relative;
+width:100px;
+height:100px;
+
+}
+#mo0,#mo1,#mo2,#mo3{
+	position:absolute;
+	width:30px;
+	height:30px;
+	 float:left;
+}
+#mo0{
+	top:210px;
+	left:270px;
+	
+}
+#mo1{
+	top:210px;
+	left:240px;	
+}
+#mo2{
+	float:left; 
+	clear: left;
+	top:180px;
+	left:270px;
+	
+}
+#mo3{
+	top:180px;
+	left:240px;
+}
+
+
