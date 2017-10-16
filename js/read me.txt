@@ -1,0 +1,11 @@
+Implimented:-
+1) pacman with obstacles done
+2) monsters with obstacles done
+3) if monsters collide with pacman or vice versa then pacman looses a life or dies
+4) if monster collides with another monster then they change their direction
+5) if pacman looses 3 lives game over
+6) if pacman eats all food game over
+7) pacman's house is assumed to be in 9th row,1st column.
+8) pacman eats food has sound effect.
+9) once pacman looses its life it goes back to its house.-9th row,1st column
+
