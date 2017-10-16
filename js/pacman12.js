@@ -1,3 +1,4 @@
+	//size of 1 dimension=30 , total width and height =600 there for total 20 boxes of size 30
 	"use strict";
 				
 	var W=600, H=600, w=30,h=30,d=30,topA=w,leftA=w;
